@@ -16,6 +16,7 @@ function App() {
       <div className="Score">Lose Win</div>
       <HangmanDrawing />
       <HangmanWord />
+      <div style={{ alignSelf: "stretch" }}></div>
       <Keyboard />
     </div>
   );
